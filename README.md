@@ -1,1 +1,1 @@
-# mycomic-extensions
+# mycomic.com 的tachiyomi 插件版
