@@ -1,4 +1,4 @@
-# mycomic.com 和 copy20.com 的 tachiyomi 插件版
+# ahri8 和 mangacopy 的 tachiyomi 插件版
 
 作者不更了，只能自力更生
 
